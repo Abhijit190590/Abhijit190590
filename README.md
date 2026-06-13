@@ -1,18 +1,25 @@
 # Hi there, I'm Abhijit Dehury 👋 
 
-### B.Tech Computer Science Student | AI Enthusiast & Backend Developer | Google Student Ambassador 2026
+### B.Tech Computer Science Student | AI Enthusiast & Full Stack Developer | Google Student Ambassador 2026
 
-I am a driven Computer Science undergraduate focused on building scalable backend systems and developing intelligent AI/Computer Vision solutions. Alongside my academic journey, I continuously refine my skills through professional specializations and leadership roles.
+I am a driven Computer Science undergraduate from Bhubaneswar, focused on building scalable backend systems and developing intelligent AI/Computer Vision solutions. Alongside my academic journey, I continuously refine my skills through professional specializations, internships, and leadership roles.
 
-- 🎓 **Education:** Pursuing B.Tech in Computer Science & Engineering
-- 💡 **Specialization:** Professional Certificate in AI & Data Science (IIT Indore)
-- 🚀 **Current Roles:** Google Student Ambassador 2026 | NCC Cadet
-- 🏆 **Hackathon Winner:** Secured 2nd Place in GEC Intra-College Hackathon for a FastAPI & Python Face Recognition Smart Attendance System.
+- 🎓 **Education:** B.Tech in Computer Science & Engineering, Gandhi Engineering College (GEC), Bhubaneswar (2024 - 2028)
+- 💡 **Specialization:** Professional Certificate in AI & Data Science — IIT Indore DRISTI CPS Program
+- 💼 **Internship:** Full Stack Developer at Zidio Development, Bengaluru (Apr - Jun 2025) — built a full-stack recruitment & interaction portal using Java Spring Boot, MySQL, HTML/CSS/JS
+- 🚀 **Current Roles:** Google Student Ambassador (2026) | Campus Ambassador, Kshitij IIT Kharagpur (Oct 2025 - Jan 2026)
+- 🏆 **Hackathon & Coding Wins:**
+  - 2nd Place — Intra-College Hackathon: Smart Attendance System (FastAPI & Python Face Recognition)
+  - 2nd Place — Debugging Battle, Technovation 2k24
+  - 2nd Place — Cross-Language Coding, Technovation 2k25
+  - 3rd Place — Code Legacy Revival, Technovation 2k25
+- ❤️ **Community:** Certificate of Appreciation for Voluntary Blood Donation
 
 ---
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijitdehury1905) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abhijit-dehury-ughrxho.gamma.site/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guitarist_abhi_1905) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijitdehury1905@gmail.com) 
 
@@ -25,6 +32,7 @@ I am a driven Computer Science undergraduate focused on building scalable backen
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🛠️ Frameworks & Databases
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -40,21 +48,26 @@ I am a driven Computer Science undergraduate focused on building scalable backen
 
 ---
 
-## 📊 GitHub Analytics:
+## 📊 GitHub Analytics Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhijit190590&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Abhijit's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit190590&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Abhijit190590&theme=dark&hide_border=false" alt="GitHub Streak" width="97%" />
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhijit190590&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📈 Core Contributions</h4>
+      <img src="https://github-readme-stats.vercel.app/api?username=Abhijit190590&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Abhijit's GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Technology Stack Usage</h4>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit190590&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🔥 Commit Streak Track</h4>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijit190590&theme=dark&hide_border=false" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ### 🔝 Top Contributed Repositories
 <p align="center">
